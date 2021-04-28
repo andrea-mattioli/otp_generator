@@ -1,3 +1,5 @@
-# otp_generator
-OTP GENERATOR
+# OTP GENERATOR
+
+```
 pip install -r requirements.txt
+```
